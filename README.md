@@ -12,7 +12,7 @@ To create an attack environment, you can first determine the basic attack setup 
 1) Surrogate models: ResNet50, DPN26, SENet18, ResNet18 and MobileNetV2
 2) Dropout probability: 0.3
 3) Number of epochs: 500 for MobileNetV2; 200 for others models
-4) Other parameters are set in the ‘arguments’ file.
+4) Other parameters are set in the ‘arguments.py’ file.
 
 ### Citing
 If you use this code or it provides you with some reference value, please cite the paper：
