@@ -14,6 +14,9 @@ To create an attack environment, you can first determine the basic attack setup 
 3) Number of epochs: 500 for MobileNetV2; 200 for others models
 4) Other parameters are set in the ‘arguments.py’ file.
 
+#### Fig. 1 The threat model of poisoning attacks
+
 ### Citing
 If you use this code or it provides you with some reference value, please cite the paper：
   XXXXX
+
