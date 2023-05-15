@@ -5,10 +5,10 @@ Mitigating Label Transferability against Poisoning Attacks in Cloud-edge-client 
 ### Creat a experimental environment: 
 PYCHARM environment based on PYTORCH framework
 
-### Attack Settings
+#### Attack Settings
 To create an attack environment, you can first determine the basic attack setup parameters, for example, the number of attackers, the number of all clients, and so on, which can be controlled artificially.
 
-### Experiment Setup
+#### Experiment Setup
 1) Surrogate models: ResNet50, DPN26, SENet18, ResNet18 and MobileNetV2
 2) Dropout probability: 0.3
 3) Number of epochs: 500 for MobileNetV2; 200 for others models
