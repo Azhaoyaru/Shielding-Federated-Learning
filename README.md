@@ -15,7 +15,7 @@ To create an attack environment, you can first determine the basic attack setup 
 4) Other parameters are set in the ‘arguments.py’ file.
 
 #### Fig. 1 The threat model of poisoning attacks
-![image](https://github.com/Azhaoyaru/Shielding-Federated-Learning/blob/main/Threat%20model%20of%20poisoning%20attacks.pdf)
+![image](https://github.com/Azhaoyaru/Shielding-Federated-Learning/blob/main/Threat%20model%20of%20poisoning%20attacks.png)
 
 ### Citing
 If you use this code or it provides you with some reference value, please cite the paper：
